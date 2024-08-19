@@ -467,7 +467,8 @@ span.logo img{
   max-height: 100%;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-
+display: block;
+margin: 0 auto;
 }
 
 .service_section .box .detail-box h5 {
